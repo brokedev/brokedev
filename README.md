@@ -31,7 +31,7 @@ Currently learning: Unreal Blueprints
 ![BROWSER](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)   GX
 
 
-![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username={brokedev})
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=brokedev)
 
 
 
