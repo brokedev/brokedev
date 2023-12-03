@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm broke.
+
+# My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=py,cs,discord,dotnet,unreal)](https://skillicons.dev)
 
 Currently working on: NIGHTFIRE [Unreal Engine]
