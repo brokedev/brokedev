@@ -39,23 +39,23 @@ Currently learning: Unreal Blueprints
 
 # Gaming
 
-[![PLATFORM1](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
+![PLATFORM1](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 
-[![PLATFORM2](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![PLATFORM2](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
-[![PLATFORM3](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![PLATFORM3](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white
+![PLATFORM4](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white)
 
-https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white
+![PLATFORM5](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
-https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white
+![PLATFORM6](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
-https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white
+![PCMB](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&l)ogo=Republic%20of%20Gamers&logoColor=white)
 
 # Gaming [Group]
 
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+![GPLATFORM1](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 br3kee
 
