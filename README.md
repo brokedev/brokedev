@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=py,cs,discord,dotnet,unreal)](https://skillicons.dev)
+Currently working on: NIGHTFIRE [Unreal Engine]
+Currently learning: Unreal Blueprints
+
 
 <!--
 **brokedev/brokedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
