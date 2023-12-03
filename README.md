@@ -51,7 +51,7 @@ Currently learning: Unreal Blueprints
 
 ![PLATFORM6](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
-![PCMB](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&l)ogo=Republic%20of%20Gamers&logoColor=white)
+![PCMB](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)
 
 # Gaming [Group]
 
